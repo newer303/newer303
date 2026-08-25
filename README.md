@@ -1,117 +1,47 @@
-<div align="center">
+<h1 align="center">Hi, I'm [ชื่อคุณ] 👋</h1>
 
-# 👋 Hi, I'm Yodchan Suphaphan
-
-**Full Stack Developer | Web Development Enthusiast | Building Amazing Web Solutions**
-
-[![GitHub](https://img.shields.io/badge/GitHub-@newer303-181717?style=flat-square&logo=github)](https://github.com/newer303)
-[![Location](https://img.shields.io/badge/📍-Bangkok%2C%20Thailand-red?style=flat-square)]()
-[![University](https://img.shields.io/badge/🎓-Ramkhamhaeng%20University-blue?style=flat-square)]()
-
-</div>
-
----
-
-## 💫 Quick Profile
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ```
-yodchan@devlab ~ % ./profile --live
+your_username@devlab ~ % ./profile --live
 
-┌─────────────────────────────────────────┐
-│   SYSTEM.INFO / FULLSTACK DEVELOPER     │
-├─────────────────────────────────────────┤
-│ Name:        Yodchan Suphaphan          │
-│ Role:        Full Stack Developer       │
-│ Focus:       Web Development & UX/UI    │
-│ Location:    Bangkok, Thailand          │
-│ University:  Ramkhamhaeng University    │
-│ Status:      🔥 Building & Learning     │
-└─────────────────────────────────────────┘
+SYSTEM.INFO / RESEARCH.BUILDER
+------------------------------
+Subject:      [ชื่อ-นามสกุล]
+Role:         [ตำแหน่ง/สายงาน เช่น AI Researcher & Web3 Builder]
+Affiliation:  [มหาวิทยาลัย/บริษัท]
+Base:         [เมือง, ประเทศ]
+Status:       Researching / Building / Shipping
 
-PRIMARY INTERESTS
-├── 🎯 Modern Web Applications
-├── 🎨 UI/UX Design & Frontend
-├── ⚙️  Backend Development
-└── 📱 Full Stack Solutions
+RESEARCH.NODE
+------------------------------
+Primary:      [สายที่สนใจ เช่น AI Agents]
+Direction:    [เช่น Trustworthy Autonomous Systems]
+Themes:       [เช่น Multi-agent systems / Agentic pipelines]
+
+BUILD.LOG
+------------------------------
+[Project 1]:  [คำอธิบายสั้น ๆ]
+[Project 2]:  [คำอธิบายสั้น ๆ]
+[Project 3]:  [คำอธิบายสั้น ๆ]
+
+GRID.LINKS
+------------------------------
+GitHub:       @your_username
+Portfolio:    your-portfolio-link.dev
+LinkedIn:     linkedin.com/in/your-handle
 
 signal.locked > _
 ```
 
----
-
-## 🛠️ Tech Stack & Skills
-
-### 💻 Languages
-![Thai](https://img.shields.io/badge/Thai-Native-09D3AC?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Fluent-FFB600?style=for-the-badge)
-
-### 🎨 Frontend & UX/UI
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-
-### ⚙️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔧 Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-CC2627?style=for-the-badge&logo=roblox&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="33%">
-
-### 📋 **Paner**
-จัดการและวางแผนการเรียน
-
-**Features:**
-- 📊 Learning Plan Management
-- 📈 Progress Tracking
-- 🎯 Study Goals
-
-**Stack:** Full Stack
-
-[View Project →](#)
-
 </td>
-<td width="33%">
+<td width="45%" valign="top" align="center">
 
-### 📇 **Flash Card**
-เรียนรู้ด้วยวิธีสนุก
+<img src="./ascii-portrait.png" width="380" alt="ASCII portrait" />
 
-**Features:**
-- 🎴 Interactive Cards
-- 📝 Custom Learning Sets
-- ⚡ Quick Review Mode
-
-**Stack:** Frontend/UX
-
-[View Project →](#)
-
-</td>
-<td width="33%">
-
-### 🤖 **Bot Line**
-สำรองไฟล์ในไลน์
-
-**Features:**
-- 💾 Auto Backup Files
-- ☁️ Google Drive Integration
-- 🔐 Secure Storage
-
-**Stack:** Backend/Bot
-
-[View Project →](#)
+<sub>VISUAL.MAP / PORTRAIT.SIGNAL</sub>
 
 </td>
 </tr>
@@ -119,63 +49,17 @@ signal.locked > _
 
 ---
 
-## 📊 GitHub Analytics
+### About Me
 
-<div align="center">
+[เขียนย่อหน้าสั้น ๆ แนะนำตัว สายงาน และสิ่งที่กำลังทำอยู่]
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=newer303&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9)
+### Achievements / Skills
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=newer303&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
+![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
+<!-- เพิ่ม/ลบ badge ตามสแต็กของคุณ ดูโค้ดเพิ่มได้ที่ https://shields.io -->
 
-</div>
+### GitHub Stats
 
----
-
-## 📚 About Me
-
-ผมคือ Full Stack Developer ที่หลงใหลในการสร้างเว็บแอปพลิเคชันที่มีประโยชน์และใช้งานง่าย 🎨 ผมกำลังศึกษาที่มหาวิทยาลัยรามคำแหง และใช้เวลาว่างของผมในการเรียนรู้เทคโนโลยีใหม่ๆ และสร้างโปรเจคที่น่าสนใจ
-
-**ความสนใจหลัก:**
-- 🎯 Web Development (Frontend & Backend)
-- 🎨 User Experience & Interface Design
-- 🤖 Automation & Bot Development
-- 💡 Innovative Solutions
-
----
-
-## 🎯 Current Focus
-
-```
-▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-Web Development Mastery          ████████░░░░░░░░░░░░░░░░  65% 
-UI/UX Design Skills              ██████░░░░░░░░░░░░░░░░░░░░  45%
-Backend Development               █████░░░░░░░░░░░░░░░░░░░░░  40%
-Full Stack Expertise              ██████░░░░░░░░░░░░░░░░░░░░  50%
-```
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 🐙 **GitHub** | [@newer303](https://github.com/newer303) |
-| 📍 **Location** | Bangkok, Thailand 🇹🇭 |
-| 🎓 **Education** | Ramkhamhaeng University |
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ *Always Learning • Always Building • Always Growing* ✨
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Web+Development+Enthusiast;Continuous+Learner)](https://github.com/newer303)
-
-**Made with ❤️ by Yodchan Suphaphan**
-
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=dark)
