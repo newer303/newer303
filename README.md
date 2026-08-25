@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yodchan+Suphaphan
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Yodchan+Suphaphan" alt="Typing animation" />
 
 **Full Stack Developer | AI/ML Enthusiast | Bangkok, Thailand**
 
@@ -51,23 +51,46 @@ Full Stack Developer from **Ramkhamhaeng University** passionate about building 
 
 ## Projects
 
-### Flash Card
-<details open>
-<summary>สร้างแอปพลิเคชันเพื่อให้การจำภาษาเป็นเรื่องง่ายและสนุกสนาน</summary>
-
-- Interactive learning experience
-- Spaced repetition algorithm
-- Multi-language support
-</details>
-
-### Paner
-<details open>
-<summary>ระบบวางแผนการเรียนและติดตามกิจกรรมทางมหาวิทยาลัย</summary>
-
-- Course planning & tracking
-- Assignment management
-- Activity dashboard
-</details>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎴 Flash Card</h3>
+      <p align="center">
+        <strong>Interactive Language Learning App</strong>
+      </p>
+      <p>
+        สร้างแอปพลิเคชันเพื่อให้การจำภาษาเป็นเรื่องง่ายและสนุกสนาน
+      </p>
+      <ul>
+        <li>Interactive learning experience</li>
+        <li>Spaced repetition algorithm</li>
+        <li>Multi-language support</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" alt="Node.js" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📋 Paner</h3>
+      <p align="center">
+        <strong>Academic Planning & Tracking System</strong>
+      </p>
+      <p>
+        ระบบวางแผนการเรียนและติดตามกิจกรรมทางมหาวิทยาลัย
+      </p>
+      <ul>
+        <li>Course planning & tracking</li>
+        <li>Assignment management</li>
+        <li>Activity dashboard</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase" alt="Firebase" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -75,11 +98,30 @@ Full Stack Developer from **Ramkhamhaeng University** passionate about building 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=newer303&show_icons=true&theme=dark&hide_border=true&count_private=true)
+### 📈 Performance Metrics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=newer303&layout=compact&theme=dark&hide_border=true)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=newer303&theme=dark&hide_border=true)
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=newer303&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9cacc&border_color=30363d" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newer303&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9cacc&border_color=30363d" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=newer303&theme=dark&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=c9cacc&currStreakLabel=00D9FF&sideNums=c9cacc&sideLabels=c9cacc&dates=c9cacc&border=30363d)
+
+### 📊 Most Used Languages
+
+![WakaTime Stats](https://github-readme-activity-graph.vercel.app/graph?username=newer303&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=00D9FF)
 
 </div>
 
@@ -91,9 +133,9 @@ Full Stack Developer from **Ramkhamhaeng University** passionate about building 
 
 | Platform | Link |
 |----------|------|
-| Open for collaboration | AI/ML and Full Stack projects |
-| LinkedIn | [View Profile](https://linkedin.com/in/your-handle) |
-| Portfolio | [View Work](https://your-portfolio-link.dev) |
+| 💼 **Collaboration** | AI/ML and Full Stack Projects |
+| 🔗 **LinkedIn** | [View Profile](https://linkedin.com/in/your-handle) |
+| 🌐 **Portfolio** | [View Work](https://your-portfolio-link.dev) |
 
 </div>
 
