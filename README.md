@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [ชื่อคุณ] 👋</h1>
+<h1 align="center">Hi, I'm Nell</h1>
 
 <table>
 <tr>
