@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Yodchan+Suphaphan" alt="Typing animation" />
+# Yodchan+Suphaphan
 
 **Full Stack Developer | AI/ML Enthusiast | Bangkok, Thailand**
 
