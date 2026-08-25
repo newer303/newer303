@@ -9,27 +9,26 @@ your_username@devlab ~ % ./profile --live
 
 SYSTEM.INFO / RESEARCH.BUILDER
 ------------------------------
-Subject:      [ชื่อ-นามสกุล]
-Role:         [ตำแหน่ง/สายงาน เช่น AI Researcher & Web3 Builder]
-Affiliation:  [มหาวิทยาลัย/บริษัท]
-Base:         [เมือง, ประเทศ]
+Subject:      [Yodchan Suphaphan]
+Role:         [Full Stack]
+Affiliation:  [มหาวิทยาลัยรามคำแหง]
+Base:         [กรุงเทพ, ประเทศไทย]
 Status:       Researching / Building / Shipping
 
 RESEARCH.NODE
 ------------------------------
-Primary:      [สายที่สนใจ เช่น AI Agents]
+Primary:      [Full Stack]
 Direction:    [เช่น Trustworthy Autonomous Systems]
 Themes:       [เช่น Multi-agent systems / Agentic pipelines]
 
 BUILD.LOG
 ------------------------------
-[Project 1]:  [คำอธิบายสั้น ๆ]
-[Project 2]:  [คำอธิบายสั้น ๆ]
-[Project 3]:  [คำอธิบายสั้น ๆ]
+[Project Flash Card]:  [สร้างขึ้นมาเพื่อต้องการให้สามารถจำภาษา ได้ง่ายและสนุก]
+[Project Paner]:  [สร้างขึ้นมาเพื่อ วางแผนการเรียนและติดตามกิจกรรมทางมหาลัยที่เราต้องการตาม]
 
 GRID.LINKS
 ------------------------------
-GitHub:       @your_username
+GitHub:       @newer303
 Portfolio:    your-portfolio-link.dev
 LinkedIn:     linkedin.com/in/your-handle
 
@@ -39,7 +38,7 @@ signal.locked > _
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="./ascii-portrait.png" width="380" alt="ASCII portrait" />
+<img src="https://cdn.discordapp.com/attachments/1541720698546946119/1541720743526797352/ascii-portrait.png?ex=6a8e9ed5&is=6a8d4d55&hm=ba317ed94e749ea66ba891c68ce11324880576f1068a1a0a0717f57390957c47" width="380" alt="ASCII portrait" />
 
 <sub>VISUAL.MAP / PORTRAIT.SIGNAL</sub>
 
