@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Yodchan Suphaphan
+# Yodchan Suphaphan
 
 **Full Stack Developer | AI/ML Enthusiast | Bangkok, Thailand**
 
@@ -12,18 +12,18 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-Full Stack Developer from **Ramkhamhaeng University** passionate about building trustworthy autonomous systems and agentic pipelines. I combine software engineering with AI/ML research to create intelligent, scalable solutions.
+Full Stack Developer from **Ramkhamhaeng University** passionate about building trustworthy autonomous systems and agentic pipelines. I combine software engineering with AI/ML research to create intelligent solutions.
 
-- 🎓 **Education**: มหาวิทยาลัยรามคำแหง (Ramkhamhaeng University)
-- 📍 **Location**: กรุงเทพ, ประเทศไทย
-- 🔭 **Currently**: Researching & Building
-- 🎯 **Focus**: Multi-agent systems, Autonomous AI, Full Stack Development
+- Education: มหาวิทยาลัยรามคำแหง (Ramkhamhaeng University)
+- Location: กรุงเทพ, ประเทศไทย
+- Currently: Researching & Building
+- Focus: Multi-agent systems, Autonomous AI, Full Stack Development
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,15 +41,15 @@ Full Stack Developer from **Ramkhamhaeng University** passionate about building 
 
 ---
 
-## 📚 Projects
+## Projects
 
-### 🎴 Flash Card
+### Flash Card
 สร้างแอปพลิเคชันเพื่อให้การจำภาษาเป็นเรื่องง่ายและสนุกสนาน
 - Interactive learning experience
 - Spaced repetition algorithm
 - Multi-language support
 
-### 📋 Paner
+### Paner
 ระบบวางแผนการเรียนและติดตามกิจกรรมทางมหาวิทยาลัย
 - Course planning & tracking
 - Assignment management
@@ -57,7 +57,7 @@ Full Stack Developer from **Ramkhamhaeng University** passionate about building 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -69,16 +69,16 @@ Full Stack Developer from **Ramkhamhaeng University** passionate about building 
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
-- 💼 Open for collaboration on AI/ML and Full Stack projects
-- 📧 Reach out via [LinkedIn](https://linkedin.com/in/your-handle)
-- 🔗 Check out my [Portfolio](https://your-portfolio-link.dev)
+- Open for collaboration on AI/ML and Full Stack projects
+- Reach out via [LinkedIn](https://linkedin.com/in/your-handle)
+- Check out my [Portfolio](https://your-portfolio-link.dev)
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by Yodchan Suphaphan**
+**Made with love by Yodchan Suphaphan**
 
 </div>
