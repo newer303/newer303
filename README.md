@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Nell</h1>
-
 <table>
 <tr>
 <td width="55%" valign="top">
