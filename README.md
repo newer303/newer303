@@ -54,7 +54,7 @@ Full Stack Developer from **Ramkhamhaeng University** passionate about building 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎴 Flash Card</h3>
+      <h3 align="center">Flash Card</h3>
       <p align="center">
         <strong>Interactive Language Learning App</strong>
       </p>
@@ -72,7 +72,7 @@ Full Stack Developer from **Ramkhamhaeng University** passionate about building 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📋 Paner</h3>
+      <h3 align="center">Paner</h3>
       <p align="center">
         <strong>Academic Planning & Tracking System</strong>
       </p>
@@ -98,7 +98,7 @@ Full Stack Developer from **Ramkhamhaeng University** passionate about building 
 
 <div align="center">
 
-### 📈 Performance Metrics
+### Performance Metrics
 
 </div>
 
@@ -115,11 +115,11 @@ Full Stack Developer from **Ramkhamhaeng University** passionate about building 
 
 <div align="center">
 
-### 🔥 Contribution Streak
+### Contribution Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=newer303&theme=dark&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=c9cacc&currStreakLabel=00D9FF&sideNums=c9cacc&sideLabels=c9cacc&dates=c9cacc&border=30363d)
 
-### 📊 Most Used Languages
+### Most Used Languages
 
 ![WakaTime Stats](https://github-readme-activity-graph.vercel.app/graph?username=newer303&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=00D9FF)
 
@@ -133,9 +133,9 @@ Full Stack Developer from **Ramkhamhaeng University** passionate about building 
 
 | Platform | Link |
 |----------|------|
-| 💼 **Collaboration** | AI/ML and Full Stack Projects |
-| 🔗 **LinkedIn** | [View Profile](https://linkedin.com/in/your-handle) |
-| 🌐 **Portfolio** | [View Work](https://your-portfolio-link.dev) |
+| Collaboration | AI/ML and Full Stack Projects |
+| LinkedIn | [View Profile](https://linkedin.com/in/your-handle) |
+| Portfolio | [View Work](https://your-portfolio-link.dev) |
 
 </div>
 
