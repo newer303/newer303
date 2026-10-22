@@ -1,6 +1,6 @@
 <div align="center">
 
-# src="size=40&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Yodchan+Suphaphan"
+# src="size=40&Yodchan+Suphaphan"
 
 **Full Stack Developer | AI/ML Enthusiast | Bangkok, Thailand**
 
