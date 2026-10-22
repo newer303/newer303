@@ -119,25 +119,6 @@ Full Stack Developer from **Ramkhamhaeng University** passionate about building 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=newer303&theme=dark&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=c9cacc&currStreakLabel=00D9FF&sideNums=c9cacc&sideLabels=c9cacc&dates=c9cacc&border=30363d)
 
-### Most Used Languages
-
-![WakaTime Stats](https://github-readme-activity-graph.vercel.app/graph?username=newer303&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=00D9FF)
-
-</div>
-
----
-
-## Let's Connect
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| Collaboration | AI/ML and Full Stack Projects |
-| LinkedIn | [View Profile](https://linkedin.com/in/your-handle) |
-| Portfolio | [View Work](https://your-portfolio-link.dev) |
-
-</div>
 
 ---
 
