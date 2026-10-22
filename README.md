@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yodchan+Suphaphan
+# Yodchan Suphaphan
 
 **Full Stack Developer | AI/ML Enthusiast | Bangkok, Thailand**
 
