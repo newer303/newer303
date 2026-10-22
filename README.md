@@ -1,6 +1,6 @@
 <div align="center">
 
-# src="size=40&Yodchan+Suphaphan"
+# <src="size=40&Yodchan+Suphaphan">
 
 **Full Stack Developer | AI/ML Enthusiast | Bangkok, Thailand**
 
